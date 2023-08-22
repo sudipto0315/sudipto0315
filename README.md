@@ -30,6 +30,14 @@
 </div>
 
  <hr/>
+
+ <div align="center">
+  <h2>My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sudipto0315/sudipto0315/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -51,15 +59,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sudipto0315/sudipto0315/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 
 <div>
 <h3 align="center">
