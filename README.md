@@ -7,7 +7,7 @@
 <h3 align="center">A computer enthusiast</h3>
 <div align="center">
 
-🔭 I’m currently studing Computer Science and Engineering
+🔭 I’m currently studying Computer Science and Engineering
 
 <hr/>
 
