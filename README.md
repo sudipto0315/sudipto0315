@@ -280,18 +280,8 @@ Worked on applied machine learning systems and AI-powered automation workflows.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipto0315&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipto0315&theme=github_dark" />
 </p>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipto0315"/>
-
-</div>
 
 ---
 
