@@ -91,7 +91,7 @@ Currently pursuing my **B.Tech in Computer Science & Engineering at IIIT Guwahat
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipto0315&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipto0315&theme=holi" />
 </p>
 
 ---
