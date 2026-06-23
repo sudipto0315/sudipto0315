@@ -256,61 +256,32 @@ Worked on applied machine learning systems and AI-powered automation workflows.
 
 ---
 
-# Certifications
-
-### AWS
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Elite-8B5CF6?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
----
-
 # Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com">
+<a href="https://leetcode.com/u/sudiptoray/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://geeksforgeeks.org">
+<a href="https://www.geeksforgeeks.org/profile/sudiptorxagu/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudipto0315&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipto0315&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudipto0315&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipto0315&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipto0315&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipto0315&theme=github_dark"/>
+</p>
 
 ---
 
@@ -318,7 +289,7 @@ Worked on applied machine learning systems and AI-powered automation workflows.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sudipto0315&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipto0315"/>
 
 </div>
 
@@ -338,7 +309,7 @@ Worked on applied machine learning systems and AI-powered automation workflows.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sudipto0315/sudipto0315/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/sudipto0315/sudipto0315/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
