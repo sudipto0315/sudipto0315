@@ -27,15 +27,15 @@
 <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github">
+<a href="https://github.com/sudipto0315">
 <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=your-github&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/your-github?style=for-the-badge&color=6D28D9)
-![](https://img.shields.io/github/stars/your-github?affiliations=OWNER&style=for-the-badge&color=4F46E5)
+![](https://komarev.com/ghpvc/?username=sudipto0315&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/sudipto0315?style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/stars/sudipto0315?affiliations=OWNER&style=for-the-badge&color=4F46E5)
 
 </div>
 
@@ -304,11 +304,11 @@ Worked on applied machine learning systems and AI-powered automation workflows.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudipto0315&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipto0315&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipto0315&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -318,7 +318,7 @@ Worked on applied machine learning systems and AI-powered automation workflows.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sudipto0315&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -328,7 +328,7 @@ Worked on applied machine learning systems and AI-powered automation workflows.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipto0315&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -338,7 +338,7 @@ Worked on applied machine learning systems and AI-powered automation workflows.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-github/your-github/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/sudipto0315/sudipto0315/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -386,7 +386,7 @@ Open To:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github">
+<a href="https://github.com/sudipto0315">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
