@@ -49,15 +49,70 @@ My work spans across **Artificial Intelligence**, **Machine Learning**, **Comput
 
 Currently pursuing my **B.Tech in Computer Science & Engineering at IIIT Guwahati**, while actively contributing to research in **Fog Computing**, **Computer Architecture**, **DRAM Cache Systems**, **Reinforcement Learning-based Scheduling**, and **AI-powered Applications**.
 
-### Open To
+---
 
-- Software Engineering Roles
-- AI / ML Engineering Roles
-- Research Engineering Positions
-- Systems Engineering Opportunities
-- Computer Architecture Research
-- Open Source Collaborations
-- High Impact Product Development
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| FinShield Hackathon 2025 | Nationwide Rank 4 |
+| Adobe GenSolve 2024 | Semifinalist |
+| Research Publication | Elsevier IoT Journal Submission |
+| Computer Architecture Research | DRAM Cache & Secure Cache Systems |
+| Open Source Contributions | Multiple Engineering Projects |
+
+</div>
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/sudiptoray/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/sudiptorxagu/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudipto0315&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipto0315&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipto0315&theme=github_dark" />
+</p>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipto0315&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sudipto0315/sudipto0315/output/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 
@@ -237,71 +292,6 @@ Worked on applied machine learning systems and AI-powered automation workflows.
 **Skills**
 
 `Machine Learning` `Python` `Deep Learning` `Data Engineering`
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| FinShield Hackathon 2025 | Nationwide Rank 4 |
-| Adobe GenSolve 2024 | Semifinalist |
-| Research Publication | Elsevier IoT Journal Submission |
-| Computer Architecture Research | DRAM Cache & Secure Cache Systems |
-| Open Source Contributions | Multiple Engineering Projects |
-
-</div>
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/sudiptoray/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/sudiptorxagu/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudipto0315&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipto0315&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudipto0315&theme=github_dark" />
-</p>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipto0315&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sudipto0315/sudipto0315/output/github-contribution-grid-snake.svg"/>
-
-</div>
 
 ---
 
