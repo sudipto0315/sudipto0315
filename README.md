@@ -15,11 +15,7 @@
 
 ![Location](https://img.shields.io/badge/Location-India-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/sudipto0315">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -333,16 +329,12 @@ Open To:
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/sudipto0315">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sudipto0315">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
